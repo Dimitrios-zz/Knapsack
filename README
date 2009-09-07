@@ -1,0 +1,15 @@
+========
+Knapsack
+========
+
+What is Knapsack?
+-----------------
+
+Knapsack is a sack that a contains a mixture of things, 
+in this case code. At the moment the major contents are 
+code for computational geometry, such as Bezier curves, 
+splines, and blending functions.
+
+It needs numpy in order to work.
+
+The code is still in alpha.
